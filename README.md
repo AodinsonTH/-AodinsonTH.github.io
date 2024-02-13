@@ -15,3 +15,12 @@
 
 สรณ์สิริ พินยะพงษ์
 
+## คำสั่ง git พื้นฐาน
+  git status 
+  git add 
+  git commit
+
+
+## คำสั่ง python พื้นฐาน
+
+  D = {'Anna: 3.99',}
